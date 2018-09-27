@@ -1,0 +1,20 @@
+{
+  "name": "react-math-skills-game",
+  "version": "1.0.0",
+  "description": "React Math Skills Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylvance/react-math-skills-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sylvance/react-math-skills-game/issues"
+  },
+  "homepage": "https://github.com/Sylvance/react-math-skills-game#readme"
+}
